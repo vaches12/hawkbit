@@ -1,3 +1,7 @@
+LABA3
+sdelano 
+Vanya
+
 # hawkBit Migration Guides
 ## Release 0.2
 ### Configuration Property changes
